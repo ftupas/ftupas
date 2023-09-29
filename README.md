@@ -1,11 +1,12 @@
 # About
 
--   Software Engineer from 🇵🇭 based in 🇳🇱
--   🥕 Core contributor @[Kakarot](https://www.kakarot.org/)
+Software Engineer from 🇵🇭 based in 🇳🇱
+-   🛠️ Contributor @[kakarot](https://www.kakarot.org/) @[dojo](https://github.com/dojoengine/dojo) @[keep-starknet-strange](https://github.com/keep-starknet-strange)
 -   💡 Hacking on [Solidity](https://docs.soliditylang.org/en/v0.8.4/) and
     [Cairo](https://www.cairo-lang.org/) for
     [smart contracts](https://ethereum.org/en/developers/docs/smart-contracts/)
--   🚀 Contributing to open source projects s
+-   📈 Data Engineer 🐍 Python and 🦀 Rust
+-   🚀 Contributing to open source projects
 
 ## Hacking With
 
